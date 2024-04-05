@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **yyc001** is...
-- an ordinary MtF🏳️‍⚧️.
+- an ordinary MtF🏳️‍🌈🏳️‍⚧️.
 - a novice researcher in machine learning and NLP.
 - cloud player of Genshin Impact 😋.
 
