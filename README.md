@@ -7,7 +7,9 @@
 
 Feel free to ask anything via [yycsupd@gmail.com](mailto:yycsupd@gmail.com).
 
-Provide emergency shelter for transgender people in East China at any time. For secure communication, please send [GPG encrypted](gpg.pub) email.
-
 **✟升天✟**
 
+
+**Announcement:**
+An emergency temporary shelter is now available for transgender individuals in East China. For more information, please contact us at yysupd@gmail.com.  
+If you prefer secure communication, please use [my GPG key](gpg.pub) for encrypted correspondence.
