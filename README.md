@@ -15,4 +15,4 @@ An emergency temporary shelter is now available for transgender individuals in E
 If you prefer secure communication, please use [my GPG key](gpg.pub) for encrypted correspondence.
 
 
-**AD:** Welcome to join the [localization project of Soviet political jokes](//github.com/yyc001/project-jokes).
+ <!-- **AD:** Welcome to join the [localization project of Soviet political jokes](//github.com/yyc001/project-jokes). -->
