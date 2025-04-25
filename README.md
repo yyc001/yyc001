@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 **yyc001** is...
+- the Psychopomp of the Land of Nothingness,
+- a ~~novice~~ failed researcher in machine learning and NLP,
+- cloud player of Genshin Impact,
 - an ~~ordinary~~ MtF🏳️‍🌈🏳️‍⚧️ maybe can no longer be ordinary anymore...
-- a novice researcher in machine learning and NLP.
-- cloud player of Genshin Impact🤗.
 
 Feel free to ask anything via [yycsupd@gmail.com](mailto:yycsupd@gmail.com).
 
